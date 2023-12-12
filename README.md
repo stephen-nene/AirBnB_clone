@@ -103,5 +103,5 @@ $
 ## Copyright
 
 - **NeneCorp** **&copy; 2023**
-- [](./LICENSE)
+- [LICENSE](./LICENSE)
 
