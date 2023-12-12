@@ -6,7 +6,7 @@ title: AirBnB Clone Project - Command Interpreter
  Welcome to the AirBnB clone project! In this project, you'll embark on a journey to build a web application inspired by the famous AirBnB platform. Before delving into the details, let's familiarize ourselves with the key concepts behind this endeavor. If you haven't already, take a moment to read the [AirBnB concept page](https://intranet.alxswe.com/concepts/74).
 
 
-![meme](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/6/65f4a1dd9c51265f49d0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20231212%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231212T041223Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=4b70192fac6c2668f69233a91fb1b3b48018385000db2b9134c5210637791cc9)
+![meme](./hbnb.png)
 
 # Project Overview
 
